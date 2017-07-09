@@ -1,0 +1,9 @@
+{
+    "repos": "shigatora/L2server",
+    "alias": "shigatora-l2server",
+    "name": "Lineage II Server",
+    "author": "Vít Dolínek - <a href=\"https://github.com/duyphan2502\">https://github.com/duyphan2502</a>",
+    "description": "Manage server",
+    "namespace": "Shigatora\\L2server",
+    "autoload": "psr-4"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "shigatora/L2server",
+    "description": "Lineage II server",
+    "license": "MIT",
+    "homepage": "http://l2arwen.cz",
+    "support": {
+        "issues": "https://github.com/shigatora/l2server/issues",
+        "source": "https://github.com/shigatora/l2server/"
+    },
+    "authors": [
+        {
+            "name": "Vít Dolínek",
+            "email": "dolinekvit@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shigatora\\L2server\\": "src"
+        },
+        "files": [
+
+        ]
+    }
+}
