@@ -1,9 +1,21 @@
 {
-    "private": false,
-    "scripts": {
-        "prod": "gulp --production",
-        "dev": "gulp watch"
-    },
-    "devDependencies": {
-    }
+  "name": "shigatora/l2server",
+  "description": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shigatora/L2server/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shigatora/L2server/issues"
+  },
+  "homepage": "https://github.com/Shigatora/L2server/"
 }
